@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+　　<html>
+　　<head>
+　　　　<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+　　　　<title>EVA MV</title>
+　　</head>
+  <style scoped>
+    .MainDiv{
+      width:100%;
+      height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+    
+    .videoDiv{
+      width:80%;
+    }
+  </style>
+　　<body>
+      <div class="MainDiv">
+        <div class="videoDiv">
+          <iframe src="//player.bilibili.com/player.html?aid=28976209&cid=50253236&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+          </iframe>
+        </div>
+      </div>
+　　</body>
+　　</html>
